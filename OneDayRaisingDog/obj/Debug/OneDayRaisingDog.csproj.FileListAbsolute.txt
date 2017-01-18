@@ -1,0 +1,9 @@
+c:\users\麻\documents\visual studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\bin\Debug\OneDayRaisingDog.exe.config
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\obj\Debug\OneDayRaisingDog.csprojResolveAssemblyReference.cache
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\obj\Debug\OneDayRaisingDog.Properties.Resources.resources
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\obj\Debug\OneDayRaisingDog.csproj.GenerateResource.Cache
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\bin\Debug\OneDayRaisingDog.exe
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\bin\Debug\OneDayRaisingDog.pdb
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\obj\Debug\OneDayRaisingDog.exe
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\obj\Debug\OneDayRaisingDog.pdb
+C:\Users\麻\Documents\Visual Studio 2015\Projects\OneDayRaisingDog\OneDayRaisingDog\obj\Debug\OneDayRaisingDog.GameChanel.resources
