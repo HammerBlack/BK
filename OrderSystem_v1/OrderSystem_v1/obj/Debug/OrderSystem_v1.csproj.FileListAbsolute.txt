@@ -1,0 +1,14 @@
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\bin\Debug\OrderSystem_v1.exe.config
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\bin\Debug\OrderSystem_v1.exe
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\bin\Debug\OrderSystem_v1.pdb
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.csprojResolveAssemblyReference.cache
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.Form1.resources
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.Properties.Resources.resources
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.csproj.GenerateResource.Cache
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.exe
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.pdb
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\bin\Debug\MySql.Data.dll
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\bin\Debug\MySql.Data.xml
+c:\users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.Form2.resources
+C:\Users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.EnsureForm.resources
+C:\Users\麻\documents\visual studio 2015\Projects\OrderSystem_v1\OrderSystem_v1\obj\Debug\OrderSystem_v1.Notice.resources
